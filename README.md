@@ -1,10 +1,10 @@
 # ios-calculator
 
-## * Calculator Using 
+## Calculator Using 
 
-### * index.html
-### * CSS
-### * Vanilla JS
+### index.html
+### CSS
+### Vanilla JS
 
 ### Global Variables
 ### Statements
