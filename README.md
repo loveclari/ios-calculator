@@ -1,8 +1,8 @@
 # ios-calculator
 
-*Calculator Using 
+### Calculator Using 
 
-### index.html
+#### index.html
 ### CSS
 ### Vanilla JS
 
