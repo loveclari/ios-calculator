@@ -1,14 +1,14 @@
 # ios-calculator
 
-Calculator Using 
+*Calculator Using 
 
-# index.html
-# CSS
-# Vanilla JS
+### index.html
+### CSS
+### Vanilla JS
 
-# Global Variables
-# Statements
-# Functions
-# Coersion
-# Event Listener
-# Switch statements
+### Global Variables
+### Statements
+### Functions
+### Coersion
+### Event Listener
+### Switch statements
